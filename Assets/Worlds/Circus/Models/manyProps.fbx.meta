@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 435548bc190dc4124933eee29bad3283
+timeCreated: 1455230338
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: sig_01_Mesh
+    100004: sig_02_Mesh
+    100006: sig_03_Mesh
+    100008: sig_03_Mesh1
+    100010: sig_04_Mesh
+    100012: sig_05_Mesh
+    100014: sig_06_Mesh
+    100016: sig_09_Mesh
+    100018: sig_11_Mesh
+    100020: sig_12_Mesh
+    100022: sig_17_Mesh
+    100024: sig_20_Mesh
+    100026: sig_22_Mesh
+    100028: sig_26_Mesh
+    100030: sig_27_Mesh
+    100032: sig_35_Mesh
+    400000: //RootNode
+    400002: sig_01_Mesh
+    400004: sig_02_Mesh
+    400006: sig_03_Mesh
+    400008: sig_03_Mesh1
+    400010: sig_04_Mesh
+    400012: sig_05_Mesh
+    400014: sig_06_Mesh
+    400016: sig_09_Mesh
+    400018: sig_11_Mesh
+    400020: sig_12_Mesh
+    400022: sig_17_Mesh
+    400024: sig_20_Mesh
+    400026: sig_22_Mesh
+    400028: sig_26_Mesh
+    400030: sig_27_Mesh
+    400032: sig_35_Mesh
+    2300000: sig_01_Mesh
+    2300002: sig_02_Mesh
+    2300004: sig_03_Mesh
+    2300006: sig_03_Mesh1
+    2300008: sig_04_Mesh
+    2300010: sig_05_Mesh
+    2300012: sig_06_Mesh
+    2300014: sig_09_Mesh
+    2300016: sig_11_Mesh
+    2300018: sig_12_Mesh
+    2300020: sig_17_Mesh
+    2300022: sig_20_Mesh
+    2300024: sig_22_Mesh
+    2300026: sig_26_Mesh
+    2300028: sig_27_Mesh
+    2300030: sig_35_Mesh
+    3300000: sig_01_Mesh
+    3300002: sig_02_Mesh
+    3300004: sig_03_Mesh
+    3300006: sig_03_Mesh1
+    3300008: sig_04_Mesh
+    3300010: sig_05_Mesh
+    3300012: sig_06_Mesh
+    3300014: sig_09_Mesh
+    3300016: sig_11_Mesh
+    3300018: sig_12_Mesh
+    3300020: sig_17_Mesh
+    3300022: sig_20_Mesh
+    3300024: sig_22_Mesh
+    3300026: sig_26_Mesh
+    3300028: sig_27_Mesh
+    3300030: sig_35_Mesh
+    4300000: sig_27_Mesh
+    4300002: sig_26_Mesh
+    4300004: sig_22_Mesh
+    4300006: sig_20_Mesh
+    4300008: sig_17_Mesh
+    4300010: sig_12_Mesh
+    4300012: sig_11_Mesh
+    4300014: sig_09_Mesh
+    4300016: sig_06_Mesh
+    4300018: sig_05_Mesh
+    4300020: sig_04_Mesh
+    4300022: sig_03_Mesh
+    4300024: sig_02_Mesh
+    4300026: sig_01_Mesh
+    4300028: sig_35_Mesh
+    4300030: sig_03_Mesh1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
